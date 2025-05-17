@@ -1,0 +1,5 @@
+dotenv
+langchain_community
+langchain_text_splitters
+langchain_core
+langchain_chroma
